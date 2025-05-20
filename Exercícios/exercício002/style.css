@@ -1,0 +1,9 @@
+h1 {
+    background-color: rgb(231, 194, 147);
+    color:rgb(52, 161, 125);
+    font-size: 35px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+}

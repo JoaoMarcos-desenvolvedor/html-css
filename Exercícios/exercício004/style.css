@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(24, 19, 11);
+}
+body h2 {
+    color: orange;
+    text-align: left;
+}
+body h1{
+    color: orange;
+    background-color: black;
+    padding: 12px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+body p {
+    color: orange;
+    text-align: center;
+}
